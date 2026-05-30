@@ -3,12 +3,6 @@
 An AI-powered resume generator built with vanilla HTML, CSS, and JavaScript.
 ---
 
-## Live Demo
-
-> [**Try it here →**](https://shahsankhalil.github.io/ai-resume-builder)
-
----
-
 ## Features
 
 - **AI-generated content** — Claude writes your resume in a professional tone using your raw details
